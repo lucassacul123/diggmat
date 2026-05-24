@@ -363,8 +363,8 @@ img { display: block; max-width: 100%; height: auto; }
   font-size: 1.3rem;
 }
 .related-thumb img {
-  width: 100%;
-  height: 100%;
+  width: 100% !important;
+  height: 100% !important;
   object-fit: cover;
   display: block;
 }
